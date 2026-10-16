@@ -21,6 +21,10 @@
     }
   ],
   "data_type": "uint8",
+  "dimension_names": [
+    "y",
+    "x"
+  ],
   "fill_value": 0,
   "node_type": "array",
   "shape": [
